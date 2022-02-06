@@ -1,1 +1,33 @@
-features folder contains the different features that we develop i.e. sign up or login, etc
+- features folder contains the different features that we develop i.e. sign up or login, etc
+- app/ folder contains the general app related features.
+- .jsx vs .js ? What's the difference?
+
+# React
+- There is a decision fatigue involved in React. You might have to decide things that you want to use for instance HTTP calls 
+- Some decisions in this course
+    - Type support: NO TYPE SAFETY IN THIS COURSE
+    - State management: Redux
+    - Styling: Semantic UI css + Sematic UI React
+    - Forms: Formik
+    - React Router
+    - React-DatePicker
+    - Date-FNS (Interesting that so much thought is given to the dates)
+
+# Thinking in React
+- Steps
+    - Start with a mock up
+    - Break UI into a component hierarchy
+    - Build a static version in React
+    - Identify the minimal but complete representation of state
+    - ID where your state should live
+    - Add inverse Data Flow
+    - Add server communication (Firestore)
+- Give react components a capital letter and folders a small letter starting (convention)
+- Note that in the final application, we need to have to major components   
+    - navbar
+    - events
+## Buildling our first component
+    - We need to make use of Grid systems in sematic UI. The grid systems help us organize the content
+    - 
+## Nav Bar and styling
+- 
