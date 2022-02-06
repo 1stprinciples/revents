@@ -1,0 +1,4 @@
+app/ folder contains the general app related features.
+
+
+- .jsx vs .js ? What's the difference?

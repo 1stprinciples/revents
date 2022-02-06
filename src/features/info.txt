@@ -1,0 +1,1 @@
+features folder contains the different features that we develop i.e. sign up or login, etc
